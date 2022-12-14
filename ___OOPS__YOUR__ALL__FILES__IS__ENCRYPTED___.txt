@@ -1,0 +1,15 @@
+_=_=_=_=_=_=_=_=_=_=_=_=_=_=_   ExinLocker Ransomware   _=_=_=_=_=_=_=_=_=_=_=_=_=_=_
+
+
+Oops, your all files is encrypted
+
+Your all files is encrypted RSA-2048 and AES 256 and Recycle Bin is trashed forever.
+
+If you don't pay within 7 days your all encrypted files is trashed forever and Computer
+is destroyed anyway.
+
+If you try to remove this malware your pc is trashed anyway.
+
+Ransomware extension: {RANSOMEXT}
+
+Ransom ID: {RANSOMID}
